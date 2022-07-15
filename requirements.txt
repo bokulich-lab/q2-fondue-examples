@@ -10,6 +10,7 @@ matplotlib
 pandana
 pandoc
 pysal==2.1.0
+python-dotenv
 pyzotero
 q2-cutadapt
 q2-dada2
