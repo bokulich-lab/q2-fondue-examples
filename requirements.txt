@@ -1,4 +1,4 @@
-cartopy==0.19
+cartopy>=0.19
 dill
 entrezpy>=2.1.2
 geopandas
@@ -24,7 +24,6 @@ q2cli
 q2templates
 qiime2
 sourmash
-sra-tools>=2.11.0
 tqdm>=4.62.3
 urbanaccess
 xmltodict
