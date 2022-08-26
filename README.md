@@ -42,7 +42,7 @@ vdb-config --proxy <your proxy URL> --proxy-disable no
 ```
 * Finally, install q2-fondue and refresh the QIIME 2 CLI cache:
 ```shell
-pip install git+https://github.com/bokulich-lab/q2-fondue.git
+pip install git+https://github.com/bokulich-lab/q2-fondue.git@5afa120cc8e017a1af6c1200a06326a2e08cc787
 
 qiime dev refresh-cache
 ```
